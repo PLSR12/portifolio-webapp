@@ -86,12 +86,12 @@ export default function Home() {
               Experiência e Conhecimento
             </h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              Desde o início da minha jornada como designer e desenvolvedor
-              freelancer, fiz trabalho remoto para
+              Desde o início da minha jornada como Desenvolvedor FullStack, fiz
+              trabalho remoto para
               <span className="text-teal-500"> Pequenas e Médias </span>
               <span className="text-teal-500"> Empresas </span>e colaborei com
-              pessoas talentosas para criar produtos digitais para uso
-              coorporativo e consumidor final.
+              pessoas talentosas para criar produtos digitais para uso interno e
+              externo.
             </p>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Eu tenho uma ampla gama de experiência, incluindo design de marca,
