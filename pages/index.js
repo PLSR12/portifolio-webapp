@@ -88,7 +88,7 @@ export default function Home() {
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Desde o início da minha jornada como Desenvolvedor FullStack, fiz
               trabalho remoto para
-              <span className="text-teal-500"> Pequenas e Médias </span>
+              <span className="text-teal-500"> Pequenas,Médias e Grandes </span>
               <span className="text-teal-500"> Empresas </span>e colaborei com
               pessoas talentosas para criar produtos digitais para uso interno e
               externo.
