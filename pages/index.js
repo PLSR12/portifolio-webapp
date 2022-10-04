@@ -64,14 +64,26 @@ export default function Home() {
               escaláveis, de boa performance, seguindo boas práticas.
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
-              <a href="https://twitter.com/P3DR0_45" target="_blank">
+              <a
+                href="https://twitter.com/P3DR0_45"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 {' '}
                 <AiFillTwitterCircle />{' '}
               </a>
-              <a href="https://www.linkedin.com/in/pedro-lucas-dos-santos/">
+              <a
+                href="https://www.linkedin.com/in/pedro-lucas-dos-santos/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <AiFillLinkedin />
               </a>
-              <a href="https://github.com/PLSR12">
+              <a
+                href="https://github.com/PLSR12"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <AiFillGithub />
               </a>
             </div>
@@ -154,6 +166,7 @@ export default function Home() {
               <a
                 href="https://www.linkedin.com/posts/pedro-lucas-dos-santos_reactjs-nodejs-postgresql-activity-6922965380151808000-bHwl?utm_source=share&utm_medium=member_desktop"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <Image
                   className="rounded-lg object-cover"
@@ -168,6 +181,7 @@ export default function Home() {
               <a
                 href="https://www.linkedin.com/posts/pedro-lucas-dos-santos_nodejs-reactjs-postgresql-activity-6927584013528240128-7W6x?utm_source=share&utm_medium=member_desktop"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <Image
                   className="rounded-lg object-cover"
@@ -180,7 +194,11 @@ export default function Home() {
             </div>
 
             <div className="basis-1/3 flex-1">
-              <a href="https://www.everydayturismo.com/" target="_blank">
+              <a
+                href="https://www.everydayturismo.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <Image
                   className="rounded-lg object-cover"
                   width={'100%'}
@@ -191,7 +209,11 @@ export default function Home() {
               </a>
             </div>
             <div className="basis-1/3 flex-1">
-              <a href="https://m3tecnologia.netlify.app/" target="_blank">
+              <a
+                href="https://m3tecnologia.netlify.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <Image
                   className="rounded-lg object-cover"
                   width={'100%'}
@@ -202,7 +224,11 @@ export default function Home() {
               </a>
             </div>
             <div className="basis-1/3 flex-1">
-              <a href="https://real-leopoldina.netlify.app/" target="_blank">
+              <a
+                href="https://real-leopoldina.netlify.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <Image
                   className="rounded-lg object-cover"
                   width={'100%'}
@@ -216,6 +242,7 @@ export default function Home() {
               <a
                 href="https://www.linkedin.com/posts/pedro-lucas-dos-santos_nodejs-reactjs-postgresql-activity-6927584013528240128-7W6x?utm_source=share&utm_medium=member_desktop"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <Image
                   className="rounded-lg object-cover"
