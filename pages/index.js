@@ -152,8 +152,8 @@ export default function Home() {
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
             <div className="basis-1/3 flex-1 ">
               <a
-                target="_blank"
                 href="https://www.linkedin.com/posts/pedro-lucas-dos-santos_reactjs-nodejs-postgresql-activity-6922965380151808000-bHwl?utm_source=share&utm_medium=member_desktop"
+                target="_blank"
               >
                 <Image
                   className="rounded-lg object-cover"
@@ -166,8 +166,8 @@ export default function Home() {
             </div>
             <div className="basis-1/3 flex-1">
               <a
-                target="_blank"
                 href="https://www.linkedin.com/posts/pedro-lucas-dos-santos_nodejs-reactjs-postgresql-activity-6927584013528240128-7W6x?utm_source=share&utm_medium=member_desktop"
+                target="_blank"
               >
                 <Image
                   className="rounded-lg object-cover"
@@ -180,7 +180,7 @@ export default function Home() {
             </div>
 
             <div className="basis-1/3 flex-1">
-              <a target="_blank" href="https://www.everydayturismo.com/">
+              <a href="https://www.everydayturismo.com/" target="_blank">
                 <Image
                   className="rounded-lg object-cover"
                   width={'100%'}
@@ -191,7 +191,7 @@ export default function Home() {
               </a>
             </div>
             <div className="basis-1/3 flex-1">
-              <a target="_blank" href="https://m3tecnologia.netlify.app/">
+              <a href="https://m3tecnologia.netlify.app/" target="_blank">
                 <Image
                   className="rounded-lg object-cover"
                   width={'100%'}
@@ -202,7 +202,7 @@ export default function Home() {
               </a>
             </div>
             <div className="basis-1/3 flex-1">
-              <a target="_blank" href="https://real-leopoldina.netlify.app/">
+              <a href="https://real-leopoldina.netlify.app/" target="_blank">
                 <Image
                   className="rounded-lg object-cover"
                   width={'100%'}
@@ -214,8 +214,8 @@ export default function Home() {
             </div>
             <div className="basis-1/3 flex-1">
               <a
-                target="_blank"
                 href="https://www.linkedin.com/posts/pedro-lucas-dos-santos_nodejs-reactjs-postgresql-activity-6927584013528240128-7W6x?utm_source=share&utm_medium=member_desktop"
+                target="_blank"
               >
                 <Image
                   className="rounded-lg object-cover"
