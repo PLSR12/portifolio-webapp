@@ -111,42 +111,42 @@ export default function Home() {
             </p>
           </div>
           <div className="lg:flex gap-10">
-            <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-white flex-1">
+            <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-gray-800 flex-1">
               <Image src={design} width={100} height={100} />
               <h3 className="text-lg font-medium pt-8 pb-2 text-teal-600 ">
                 Tecnologias
               </h3>
               <p className="py-2"> </p>
               <h4 className="py-4 text-teal-600">FrontEnd</h4>
-              <p className="text-gray-800 py-1">React</p>
-              <p className="text-gray-800 py-1">CSS</p>
-              <p className="text-gray-800 py-1">Tailwind CSS</p>
+              <p className="dark:text-white py-1">React</p>
+              <p className="dark:text-white py-1">CSS</p>
+              <p className="dark:text-white py-1">Tailwind CSS</p>
               <h4 className="py-4 text-teal-600">BackEnd</h4>
-              <p className="text-gray-800 py-1">Node</p>
-              <p className="text-gray-800 py-1">Postgre</p>
-              <p className="text-gray-800 py-1">MongoDb</p>
+              <p className="dark:text-white py-1">Node</p>
+              <p className="dark:text-white py-1">Postgre</p>
+              <p className="dark:text-white py-1">MongoDb</p>
             </div>
-            <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
+            <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-gray-800 flex-1">
               <Image src={code} width={100} height={100} />
               <h3 className="text-lg font-medium pt-8 pb-2 text-teal-600 ">
                 Linguagens
               </h3>
               <p className="py-2"></p>
-              <p className="text-gray-800 py-1">JavaScript</p>
-              <p className="text-gray-800 py-1">Typescript</p>
+              <p className="dark:text-white py-1">JavaScript</p>
+              <p className="dark:text-white py-1">Typescript</p>
             </div>
-            <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
+            <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-gray-800 flex-1">
               <Image src={consulting} width={100} height={100} />
               <h3 className="text-lg font-medium pt-8 pb-2  text-teal-600 ">
                 Ferramentas de desenvolvimento
               </h3>
               <h4 className="py-4 text-teal-600"></h4>
-              <p className="text-gray-800 py-1">VsCode</p>
-              <p className="text-gray-800 py-1">Figma</p>
-              <p className="text-gray-800 py-1">PostMan</p>
-              <p className="text-gray-800 py-1">Bootstrap</p>
-              <p className="text-gray-800 py-1">Docker</p>
-              <p className="text-gray-800 py-1">Material UI</p>
+              <p className="dark:text-white py-1">VsCode</p>
+              <p className="dark:text-white py-1">Figma</p>
+              <p className="dark:text-white py-1">PostMan</p>
+              <p className="dark:text-white py-1">Bootstrap</p>
+              <p className="dark:text-white py-1">Docker</p>
+              <p className="dark:text-white py-1">Material UI</p>
             </div>
           </div>
         </section>
