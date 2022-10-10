@@ -15,10 +15,10 @@
 
 ## Portifólio WebApp Site
  
+### Estrutura do projeto
+
 - `./pages`: É onde se encontra a principal página da aplicação.
 
 - `./styles/` : É onde se encontra as configurações do Estilo Global no arquivo `./styles/globals.css`
 
 - `./tailwind.config.js` : Estão as configurações da Lib de estilização, o Tailwind CSS
-
-### Estrutura do projeto
