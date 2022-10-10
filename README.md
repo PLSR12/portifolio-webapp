@@ -20,6 +20,8 @@ Portifólio - WebApp
 
 ## :house: About the project
 Portifólio pessoal com informações e alguns projetos já feitos.
+
+- [Entenda mais o projeto aqui](./STRUCTURE.md)
 <br>
 ## :computer: Technologies
 
