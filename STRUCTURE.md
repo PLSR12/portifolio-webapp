@@ -9,8 +9,8 @@
 ### Como rodar na minha máquina?
 
 - Clone o projeto `git clone https://github.com/PLSR12/portifolio-webapp.git`
-- Rode `yarn install`
-- Rode `yarn dev`
+- Rode `npm install`
+- Rode `npm run dev`
 - Pronto 🎉
 
 ## Portifólio WebApp Site
