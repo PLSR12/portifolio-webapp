@@ -2,6 +2,8 @@
 Portifólio - WebApp
 </h1>
 
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](./LICENSE)
+
 
 <h3 align="center">
   Let's know this repositories.
